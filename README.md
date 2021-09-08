@@ -1,4 +1,4 @@
-RSA ENCRYPTION SYSTEM
+**RSA ENCRYPTION SYSTEM**
 ____
 
 Implementation of an RSA encryption System from scratch (excepted for the RNG) only using documentation from [Wikipedia](https://en.wikipedia.org/wiki/RSA_%28cryptosystem%29#Key_generation) 
